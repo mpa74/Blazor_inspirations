@@ -11,3 +11,4 @@ https://materialdesignicons.com/
 
 # Design
 https://github.com/thaveeshakannangara/MAUIBeautifulUIChallenge
+https://github.com/jsuarezruiz/dotnet-maui-showcase
