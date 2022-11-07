@@ -8,3 +8,6 @@ https://github.com/enkodellc/blazorboilerplate -
 https://platform.uno/
 https://mudblazor.com/
 https://materialdesignicons.com/
+
+# Design
+https://github.com/thaveeshakannangara/MAUIBeautifulUIChallenge
